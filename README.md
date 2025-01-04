@@ -36,7 +36,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/Literalura.git
+   git clone https://github.com/tu_usuario/challenge-spring-boot-literalura.git     
    cd Literalura
 Abre el archivo src/main/resources/application.properties y configura los detalles de conexión a tu base de datos PostgreSQL
 
